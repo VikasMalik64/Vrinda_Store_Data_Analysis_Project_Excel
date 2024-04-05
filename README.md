@@ -58,7 +58,7 @@ Six pivot tables were created to summarise the data and help identify trends in 
 Finally, the dashboard was created by inserting and customizing the pivot charts of corresponding pivot table. For user friendly and interactive experience 3 "Slicers" were added.
 
 Below is a snippet of the final dashboard in Excel.
-![Vrinda Dashboard](https://github.com/harshitgahlaut/Vrinda_Store_Data_Analysis_Project_Excel/assets/142779836/5d266cce-53b3-4eb0-8f20-cfb25cae436f)
+![Vrinda Dashboard](https://github.com/VikasMalik64/Vrinda_Store_Data_Analysis_Project_Excel/blob/d5717dcfbb1d5dd073c10d3467a5f694cc3c6175/Dashboard.jpg)
 
 ## Insights
 
