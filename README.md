@@ -53,9 +53,6 @@ This stage began with getting to know the dataset and checking for any data qual
 
 Six pivot tables were created to summarise the data and help identify trends in the dataset focusing on relationship between sales and other factors such as gender, orders in diff months, top states. Trends in order status, orders on diff channels orders and age comparison were also performed.
 
-Below is a snippet of the pivot tables in Excel.
-![Pivots](https://github.com/VikasMalik64/Bike_Sales_Project_Excel/blob/4d982ad9547f50038cd65685b8983a65501d22d7/Pivots.jpg)
-
 ## Data Visualization
 
 Finally, the dashboard was created by inserting and customizing the pivot charts of corresponding pivot table. For user friendly and interactive experience 3 "Slicers" were added.
